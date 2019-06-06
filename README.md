@@ -1,5 +1,5 @@
 # Constraint-Based-Modeling
-MATLAB code developed for Contraint-Based Modeling methods of Metabolic Networks. The following files are contained in this repository.
+MATLAB code developed for Contraint-Based Modeling methods of Metabolic Networks. Methods are meant to be used with the MATLAB version of the [COBRA](https://opencobra.github.io/cobratoolbox/stable/) toolbox. The following files are contained in this repository.
 
 ## CORDA.m
 Performs the Cost-Optimization Reaction Dependency Assessment algorithm. This algorithm tailors generalized metabolic reconstructions to context-specific metabolic models (e.g. specific cell-line or cell type) using gene or protein expression of metabolic enzymes. The algorithm is described in:
