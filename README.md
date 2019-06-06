@@ -20,7 +20,7 @@ Implements the matrix-form Artificially Centered Hit and Run algorithm. When com
 
 Schultz, A., Mehta, S., Hu, C. W., Hoff, F. W., Horton, T. M., Kornblau, S. M., & Qutub, A. A. (2017). Identifying cancer specific metabolic signatures using constraint-based models. In PACIFIC SYMPOSIUM ON BIOCOMPUTING 2017 (pp. 485-496). [PMID: 27897000](https://www.ncbi.nlm.nih.gov/pubmed/27897000)
 
-![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/7034d99509c26d9feb7284408eddf56a39bc516b/4-Figure1-1.png)
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5173378/bin/nihms832148f1.jpg)
 <sub>(A) Identification of undesirable reactions (red) beneficial for the desirable reaction (blue) to carry flux through three Dependency Asssesments (DA). Pathways taken during each DA are highlighted, and H represents the set of undesirable reactions taken up to that point. After an undesirable reaction is used, its cost (e) is increased. The process is repeated until H is unchanged. (B) gpSampler moves one point at a time, 50 steps at a time. The mfACHR algorithm identifies all possible directions of movement at once and moves all points simultaneously. Vectors defining the trajectory of movement, taken as the difference between j and the center point, and the corresponding path of movement of i are color-coded. (C) During parallelization of the MCS process, the matrix of sampled points is divided into 2 cores, which are sampled for 50 steps, then re-combined.</sub>
 
 ## corsoFBA.m
