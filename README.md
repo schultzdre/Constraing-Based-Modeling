@@ -30,6 +30,5 @@ Schultz, A., & Qutub, A. A. (2015). Predicting internal cell fluxes at sub-optim
 ## sammif
 Folder contains files to run the Semi-Automated Metabolic Map Illustrator from MATLAB. Add this folder to the MATLAB path to use this tool. To see the options for running the function type ```help sammi``` in the MATLAB command line. To test SAMMI within MATLAB run the command ```testSammi(n)``` where ```n``` ranges from zero to four. To view the code for these examples type ```edit testSammi```.
 
-The SAMMI tool is available online at [www.sammitool.com](http://www.sammitool.com). Click on the following image for a short SAMMI tutorial:
+The SAMMI tool is available online at [www.sammitool.com](http://www.sammitool.com). Click [here](https://i9.ytimg.com/vi/YJ-0J4DysY4/mqdefault.jpg?sqp=COCZ5ucF&rs=AOn4CLCZ93CoPpQGO1OkSEcQqUmWnzJPSA&time=1559858445432)](https://youtu.be/YJ-0J4DysY4) for a short SAMMI tutorial:
 
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/YJ-0J4DysY4/mqdefault.jpg?sqp=COCZ5ucF&rs=AOn4CLCZ93CoPpQGO1OkSEcQqUmWnzJPSA&time=1559858445432)](https://youtu.be/YJ-0J4DysY4)
